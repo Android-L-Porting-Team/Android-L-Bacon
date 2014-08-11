@@ -16,3 +16,5 @@ github.com/CyanogenMod/android_hardware_qcom_media-caf-new
 github.com/CyanogenMod/android_frameworks_opt_connectivity
 github.com/CyanogenMod/android_device_qcom_common
 
+##OnePlus One's official AOSP kernel source
+https://github.com/Android-L-Porting-Team/android_kernel_oneplus_one
