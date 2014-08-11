@@ -63,6 +63,7 @@ persist.gps.qc_nlp_in_use=0
 ro.gps.agps_provider=1
 
 # cabl is handled by the panel
+ro.qualcomm.cabl=0
 
 #
 # ADDITIONAL_BUILD_PROPERTIES
